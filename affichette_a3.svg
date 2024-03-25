@@ -14,7 +14,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="affichette_a3.svg">
+   sodipodi:docname="affichette_a3.svg"
+   inkscape:export-filename="/home/gawel/SemeursDeLaBaie/gh/velo/affichette_a3.png"
+   inkscape:export-xdpi="71"
+   inkscape:export-ydpi="71">
   <defs
      id="defs2">
     <rect
@@ -32,8 +35,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.77737103"
-     inkscape:cx="793.70079"
-     inkscape:cy="561.25984"
+     inkscape:cx="785.98247"
+     inkscape:cy="580.55565"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -51,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,7 +68,9 @@
        width="418.84286"
        height="296.55881"
        x="0.75408071"
-       y="0.66719466" />
+       y="0.66719466"
+       inkscape:export-xdpi="71"
+       inkscape:export-ydpi="71" />
     <image
        width="96.682541"
        height="65.700157"
@@ -111,11 +116,11 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.5691px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.338076px"
          id="tspan1662">Bourse et Atelier vélo</tspan></text>
     <path
-       d="m 34.020116,97.335538 c -0.349704,0.062 -0.603409,0.157757 -1.498241,0.563434 -1.330248,0.608527 -1.834233,0.791647 -2.341648,0.859267 -0.476558,0.0619 -0.826261,-0.0563 -1.357675,-0.456387 -0.802263,-0.605697 -1.364532,-0.814187 -2.207935,-0.814187 -0.898261,0 -1.71081,0.29582 -2.903918,1.062094 -0.222851,0.14368 -0.579412,0.37469 -0.795406,0.512737 -0.524556,0.33807 -0.747407,0.436677 -0.939402,0.411317 -0.250278,-0.0338 -0.503984,-0.0986 -1.18968,-0.315537 -1.227393,-0.385957 -1.697094,-0.487377 -2.286792,-0.487377 -0.665122,0 -1.121109,0.14931 -1.573669,0.521187 -0.226278,0.18594 -0.305133,0.27327 -0.438843,0.493007 -0.08572,0.14652 -0.198852,0.394417 -0.25028,0.549367 -0.08229,0.25638 -0.08915,0.32963 -0.09257,0.80292 0,0.47611 0.01029,0.54654 0.08914,0.79446 0.270849,0.81983 0.935973,1.5354 2.005657,2.15801 0.435415,0.25356 1.069683,0.55218 1.847946,0.87334 1.254822,0.51556 1.539385,0.60008 2.139367,0.63952 0.623983,0.0423 1.302821,-0.0648 2.615927,-0.40568 1.049112,-0.27609 1.254819,-0.31835 1.494813,-0.32399 l 0.188566,-0.004 0.048,0.12677 c 0.130281,0.33243 0.07199,1.60864 -0.096,2.11576 -0.212567,0.63669 -0.76455,1.21987 -1.66281,1.75796 -0.747407,0.44794 -1.316533,0.7043 -3.692466,1.6509 -2.146223,0.85644 -2.893631,1.18889 -3.857031,1.71852 -1.412532,0.77755 -2.393075,1.56074 -3.198766,2.55524 -0.778264,0.96067 -1.289106,2.06503 -1.5051,3.25955 -0.109711,0.61416 -0.123426,0.77192 -0.119997,1.60583 0.01029,3.29618 0.949687,6.2092 2.687924,8.33904 1.81709,2.2228 4.532441,3.74411 8.218049,4.6062 2.180509,0.50992 4.73815,0.78601 7.724349,0.8339 4.035314,0.0676 7.590639,-0.46485 10.576841,-1.5833 2.554212,-0.95785 4.721006,-2.51298 6.058111,-4.34981 1.069684,-1.47343 1.686809,-3.09334 1.937087,-5.08514 0.07199,-0.59725 0.08229,-2.16645 0.01714,-2.66228 -0.219422,-1.59738 -0.665124,-2.83416 -1.457101,-4.05684 -0.949687,-1.46215 -2.454786,-2.8426 -4.463872,-4.08782 -0.623981,-0.38877 -0.884545,-0.54091 -1.59424,-0.92687 -0.658266,-0.36061 -0.973686,-0.52683 -2.674209,-1.40862 -2.273078,-1.18043 -3.274191,-1.83403 -4.025027,-2.6313 -0.257136,-0.27329 -0.809121,-0.9297 -0.809121,-0.96351 0,-0.0141 0.329134,-0.0282 0.733695,-0.031 1.162251,-0.008 1.72795,-0.0901 2.698208,-0.40004 0.778262,-0.2451 1.073111,-0.3099 2.495928,-0.55218 0.778264,-0.13241 1.062827,-0.20848 1.563384,-0.4085 0.5177,-0.21131 0.901688,-0.44794 1.36796,-0.848 0.809119,-0.69304 1.110826,-1.21423 1.073113,-1.84247 -0.03771,-0.59445 -0.380561,-1.05083 -1.062827,-1.4058 -0.620553,-0.326797 -1.446815,-0.478927 -2.578212,-0.478927 -0.935973,-0.004 -1.597668,0.0817 -2.437643,0.3099 -0.260565,0.0733 -0.40799,0.0986 -0.47313,0.0845 -0.102855,-0.0226 -0.390845,-0.323981 -0.675409,-0.712758 -0.383989,-0.529637 -0.634268,-0.847987 -0.822835,-1.053644 -0.685694,-0.743747 -1.587383,-1.073354 -2.499356,-0.909954 z"
+       d="m 29.78678,105.27307 c -0.349704,0.062 -0.603409,0.15776 -1.498241,0.56344 -1.330248,0.60853 -1.834233,0.79165 -2.341648,0.85927 -0.476558,0.0619 -0.826261,-0.0563 -1.357675,-0.45639 -0.802263,-0.6057 -1.364532,-0.81419 -2.207935,-0.81419 -0.898261,0 -1.71081,0.29582 -2.903918,1.0621 -0.222851,0.14368 -0.579412,0.37469 -0.795406,0.51274 -0.524556,0.33807 -0.747407,0.43668 -0.939402,0.41132 -0.250278,-0.0338 -0.503984,-0.0986 -1.18968,-0.31554 -1.227393,-0.38596 -1.697094,-0.48738 -2.286792,-0.48738 -0.665122,0 -1.121109,0.14931 -1.573669,0.52119 -0.226278,0.18594 -0.305133,0.27327 -0.438843,0.49301 -0.08572,0.14652 -0.198852,0.39442 -0.25028,0.54937 -0.08229,0.25638 -0.08915,0.32963 -0.09257,0.80292 0,0.47611 0.01029,0.54654 0.08914,0.79446 0.270849,0.81983 0.935973,1.5354 2.005657,2.15801 0.435415,0.25356 1.069683,0.55218 1.847946,0.87334 1.254822,0.51556 1.539385,0.60008 2.139367,0.63952 0.623983,0.0423 1.302821,-0.0648 2.615927,-0.40568 1.049112,-0.27609 1.254819,-0.31835 1.494813,-0.32399 l 0.188566,-0.004 0.048,0.12677 c 0.130281,0.33243 0.07199,1.60864 -0.096,2.11576 -0.212567,0.63669 -0.76455,1.21987 -1.66281,1.75796 -0.747407,0.44794 -1.316533,0.7043 -3.692466,1.6509 -2.146223,0.85644 -2.893631,1.18889 -3.857031,1.71852 -1.412532,0.77755 -2.393075,1.56074 -3.1987657,2.55524 -0.7782637,0.96067 -1.2891054,2.06503 -1.5050991,3.25955 -0.109711,0.61416 -0.123426,0.77192 -0.119997,1.60583 0.01029,3.29618 0.9496864,6.2092 2.6879228,8.33904 1.81709,2.2228 4.532441,3.74411 8.218049,4.6062 2.180509,0.50992 4.73815,0.78601 7.724349,0.8339 4.035314,0.0676 7.590639,-0.46485 10.576841,-1.5833 2.554212,-0.95785 4.721006,-2.51298 6.058111,-4.34981 1.069684,-1.47343 1.686809,-3.09334 1.937087,-5.08514 0.07199,-0.59725 0.08229,-2.16645 0.01714,-2.66228 -0.219422,-1.59738 -0.665124,-2.83416 -1.457101,-4.05684 -0.949687,-1.46215 -2.454786,-2.8426 -4.463872,-4.08782 -0.623981,-0.38877 -0.884545,-0.54091 -1.59424,-0.92687 -0.658266,-0.36061 -0.973686,-0.52683 -2.674209,-1.40862 -2.273078,-1.18043 -3.274191,-1.83403 -4.025027,-2.6313 -0.257136,-0.27329 -0.809121,-0.9297 -0.809121,-0.96351 0,-0.0141 0.329134,-0.0282 0.733695,-0.031 1.162251,-0.008 1.72795,-0.0901 2.698208,-0.40004 0.778262,-0.2451 1.073111,-0.3099 2.495928,-0.55218 0.778264,-0.13241 1.062827,-0.20848 1.563384,-0.4085 0.5177,-0.21131 0.901688,-0.44794 1.36796,-0.848 0.809119,-0.69304 1.110826,-1.21423 1.073113,-1.84247 -0.03771,-0.59445 -0.380561,-1.05083 -1.062827,-1.4058 -0.620553,-0.3268 -1.446815,-0.47893 -2.578212,-0.47893 -0.935973,-0.004 -1.597668,0.0817 -2.437643,0.3099 -0.260565,0.0733 -0.40799,0.0986 -0.47313,0.0845 -0.102855,-0.0226 -0.390845,-0.32398 -0.675409,-0.71276 -0.383989,-0.52964 -0.634268,-0.84799 -0.822835,-1.05365 -0.685694,-0.74375 -1.587383,-1.07336 -2.499356,-0.90996 z"
        id="path1560"
        style="fill:#000000;stroke:none;stroke-width:0.00310786" />
     <g
-       transform="matrix(0.00289322,0,0,-0.00289322,12.449528,182.60096)"
+       transform="matrix(0.00289322,0,0,-0.00289322,8.2161932,199.00523)"
        fill="#000000"
        stroke="none"
        id="g1626">
@@ -132,75 +137,70 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9277px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.216072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="78.430748"
-       y="115.94341"
+       x="67.542038"
+       y="128.2874"
        id="text1466-8-8"
        transform="scale(0.72896923,1.3718)"><tspan
          sodipodi:role="line"
          id="tspan1464-9-9"
-         x="78.430748"
-         y="115.94341"
+         x="67.542038"
+         y="128.2874"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9277px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px">Réparez votre vélo aidé par des passionés!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9277px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.216072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="79.688866"
-       y="79.939529"
+       x="68.800156"
+       y="88.811768"
        id="text1466-8-8-1"
        transform="scale(0.72896923,1.3718)"><tspan
          sodipodi:role="line"
          id="tspan1464-9-9-3"
-         x="79.688866"
-         y="79.939529"
+         x="68.800156"
+         y="88.811768"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9277px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px">Achètez ou vendez votre vélo!</tspan><tspan
          sodipodi:role="line"
-         x="79.688866"
-         y="97.349159"
+         x="68.800156"
+         y="106.2214"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9277px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
          id="tspan1690" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.216072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="78.75898"
-       y="95.083755"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.216072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="67.87027"
+       y="99.712753"
        id="text1466-8-8-1-0"
        transform="scale(0.72896923,1.3718)"><tspan
          sodipodi:role="line"
-         x="78.75898"
-         y="95.083755"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
-         id="tspan1810">Dépot des vélos à vendre le 30 avril à la Coop'in, rte te de l'usine entre 10h et 12h</tspan><tspan
+         x="67.87027"
+         y="99.712753"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
+         id="tspan1810">Dépot des vélos à vendre le 30 avril à la Coop'in, rte te de l'usine entre 10h et 12h ou le 6 avril de 9h30 à 10h</tspan><tspan
          sodipodi:role="line"
-         x="78.75898"
-         y="108.31288"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
+         x="67.87027"
+         y="108.5322"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
          id="tspan1690-2" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.216072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="78.75898"
-       y="130.21611"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.216072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="67.87027"
+       y="139.08818"
        id="text1466-8-8-1-0-4"
        transform="scale(0.72896923,1.3718)"><tspan
          sodipodi:role="line"
-         id="tspan1464-9-9-3-3-1"
-         x="78.75898"
-         y="130.21611"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px">Des outils sont disponible sur place.</tspan><tspan
+         x="67.87027"
+         y="139.08818"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
+         id="tspan2297">Des outils sont disponible sur place. Les pièces de rechange courantes peuvent être fournies.</tspan><tspan
          sodipodi:role="line"
-         x="78.75898"
-         y="143.44524"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
-         id="tspan2297">Les pièces de rechange courantes peuvent être fournies.</tspan><tspan
-         sodipodi:role="line"
-         x="78.75898"
-         y="156.67436"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
+         x="67.87027"
+         y="147.90762"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
          id="tspan1804" /><tspan
          sodipodi:role="line"
-         x="78.75898"
-         y="169.90349"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
+         x="67.87027"
+         y="156.72708"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
          id="tspan1690-2-6" /></text>
     <text
        xml:space="preserve"
@@ -223,22 +223,22 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.216072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="26.785341"
-       y="156.12204"
+       y="159.59372"
        id="text1466-8-8-1-0-7"
        transform="scale(0.72896923,1.3718)"><tspan
          sodipodi:role="line"
          x="26.785341"
-         y="156.12204"
+         y="159.59372"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
          id="tspan1918">Une participation libre et consciente vous sera demandée pour vendre ou réparer. De 5 à ...€</tspan><tspan
          sodipodi:role="line"
          x="26.785341"
-         y="164.94148"
+         y="168.41316"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
          id="tspan1924" /><tspan
          sodipodi:role="line"
          x="26.785341"
-         y="173.76094"
+         y="177.23262"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
          id="tspan1690-2-9" /></text>
     <text
@@ -256,22 +256,22 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.216072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="39.594212"
-       y="164.75325"
+       y="168.22493"
        id="text1466-8-8-1-0-7-5"
        transform="scale(0.72896923,1.3718)"><tspan
          sodipodi:role="line"
          x="39.594212"
-         y="164.75325"
+         y="168.22493"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
          id="tspan1918-8">Vous pouvez aussi donner votre vélo à l'association Côte Waste qui en fera bon usage</tspan><tspan
          sodipodi:role="line"
          x="39.594212"
-         y="173.57269"
+         y="177.04437"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
          id="tspan1924-8" /><tspan
          sodipodi:role="line"
          x="39.594212"
-         y="182.39215"
+         y="185.86383"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
          id="tspan1690-2-9-4" /></text>
     <text
@@ -300,5 +300,72 @@
        xml:space="preserve"
        id="text2089"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:0.26458333px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:10.58333333px;line-height:125%;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2091);" />
+    <image
+       width="62.15062"
+       height="62.150627"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAAEiAQAAAAB1xeIbAAABeElEQVR4nO2aQW6DMBBF39RIXTpS
+DmSOjo/SG+BlJKLfhYEkjaJ2UQIJ4w1gnuSvr/EwtjHxe8sff4DAKaeccsqprVM2tgayNVhbpp52
+VV3vTTX1kjqAcsSSziZKGACwtXTtiSpTjOdDkLVAnQZr63pnqrnrKYYoy43o1CNKHWDtE0fcLzXF
+fRSM0R4GA7hedG1V/WtTo/e5flQDlvojwNnW1bUHqnp/FeP5gI3TYE1d+6GsBaA0AEHkWumb3VDP
+17UPqphBPJk6gNTffnC3rv41KSRJ6uJQHVcXB9RFqT7Wt1tV/9pUdZekYbKdUA2H6c69X4bi4jOp
+B6rjfZCkweN+SWp0d24kDQBB6ggiufeLUXPcA9XxS6rvPd8vSs35XleZBqJ0yfzu/bLUvI85Zv6z
+WRtPXt8/lcrzznH6+tQj6j9HdGpqtcgvDeTD2c+tlqTu9jFzG4A4NMB4eLVd9a9N/axzrldZ0ev7
+RSnzf6Occsopp3ZBfQPOaORM06E6QAAAAABJRU5ErkJggg==
+"
+       id="image969"
+       x="151.68169"
+       y="230.07167" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="164.00198"
+       y="233.20937"
+       id="text975"><tspan
+         sodipodi:role="line"
+         id="tspan973"
+         x="164.00198"
+         y="233.20937"
+         style="stroke-width:0.264583px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.216072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="203.06883"
+       y="214.14082"
+       id="text1466-8-8-1-0-7-5-3"
+       transform="scale(0.72896923,1.3718)"><tspan
+         sodipodi:role="line"
+         x="203.06883"
+         y="214.14082"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
+         id="tspan1918-8-67">Scanner pour plus d'infos</tspan><tspan
+         sodipodi:role="line"
+         x="203.06883"
+         y="222.96027"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
+         id="tspan1924-8-53" /><tspan
+         sodipodi:role="line"
+         x="203.06883"
+         y="231.77972"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
+         id="tspan1690-2-9-4-5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.216072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="66.028992"
+       y="110.17405"
+       id="text1466-8-8-1-0-6"
+       transform="scale(0.72896923,1.3718)"><tspan
+         sodipodi:role="line"
+         x="66.028992"
+         y="110.17405"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
+         id="tspan1810-2">Achat de vélos le 6 avril pendant l'atelier</tspan><tspan
+         sodipodi:role="line"
+         x="66.028992"
+         y="118.9935"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
+         id="tspan1690-2-91" /></text>
   </g>
 </svg>

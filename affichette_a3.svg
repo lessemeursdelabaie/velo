@@ -41,10 +41,10 @@
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1200"
+     inkscape:window-width="1916"
+     inkscape:window-height="1174"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -174,7 +174,7 @@
          x="67.87027"
          y="99.712753"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216072px"
-         id="tspan1810">Dépot des vélos à vendre le 30 avril à la Coop'in, rte te de l'usine entre 10h et 12h ou le 6 avril de 9h30 à 10h</tspan><tspan
+         id="tspan1810">Dépot des vélos à vendre le 30 mars à la Coop'in, rte te de l'usine entre 10h et 12h ou le 6 avril de 9h30 à 10h</tspan><tspan
          sodipodi:role="line"
          x="67.87027"
          y="108.5322"
@@ -305,15 +305,7 @@
        height="62.150627"
        preserveAspectRatio="none"
        style="image-rendering:optimizeQuality"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAAEiAQAAAAB1xeIbAAABeElEQVR4nO2aQW6DMBBF39RIXTpS
-DmSOjo/SG+BlJKLfhYEkjaJ2UQIJ4w1gnuSvr/EwtjHxe8sff4DAKaeccsqprVM2tgayNVhbpp52
-VV3vTTX1kjqAcsSSziZKGACwtXTtiSpTjOdDkLVAnQZr63pnqrnrKYYoy43o1CNKHWDtE0fcLzXF
-fRSM0R4GA7hedG1V/WtTo/e5flQDlvojwNnW1bUHqnp/FeP5gI3TYE1d+6GsBaA0AEHkWumb3VDP
-17UPqphBPJk6gNTffnC3rv41KSRJ6uJQHVcXB9RFqT7Wt1tV/9pUdZekYbKdUA2H6c69X4bi4jOp
-B6rjfZCkweN+SWp0d24kDQBB6ggiufeLUXPcA9XxS6rvPd8vSs35XleZBqJ0yfzu/bLUvI85Zv6z
-WRtPXt8/lcrzznH6+tQj6j9HdGpqtcgvDeTD2c+tlqTu9jFzG4A4NMB4eLVd9a9N/axzrldZ0ev7
-RSnzf6Occsopp3ZBfQPOaORM06E6QAAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAAEiAQAAAAB1xeIbAAABeElEQVR4nO2aQW6DMBBF39RIXTpS DmSOjo/SG+BlJKLfhYEkjaJ2UQIJ4w1gnuSvr/EwtjHxe8sff4DAKaeccsqprVM2tgayNVhbpp52 VV3vTTX1kjqAcsSSziZKGACwtXTtiSpTjOdDkLVAnQZr63pnqrnrKYYoy43o1CNKHWDtE0fcLzXF fRSM0R4GA7hedG1V/WtTo/e5flQDlvojwNnW1bUHqnp/FeP5gI3TYE1d+6GsBaA0AEHkWumb3VDP 17UPqphBPJk6gNTffnC3rv41KSRJ6uJQHVcXB9RFqT7Wt1tV/9pUdZekYbKdUA2H6c69X4bi4jOp B6rjfZCkweN+SWp0d24kDQBB6ggiufeLUXPcA9XxS6rvPd8vSs35XleZBqJ0yfzu/bLUvI85Zv6z WRtPXt8/lcrzznH6+tQj6j9HdGpqtcgvDeTD2c+tlqTu9jFzG4A4NMB4eLVd9a9N/axzrldZ0ev7 RSnzf6Occsopp3ZBfQPOaORM06E6QAAAAABJRU5ErkJggg== "
        id="image969"
        x="151.68169"
        y="230.07167" />
